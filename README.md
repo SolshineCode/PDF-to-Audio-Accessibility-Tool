@@ -40,6 +40,4 @@ pip install pydub
 
 This script uses the pyttsx3 library, which uses the speech synthesis engines that come with the operating system. Therefore, it doesn't require an internet connection. However, the quality and characteristics of the speech might vary depending on the system's speech synthesis engine.
 
-Your use of the transformers may be rate limited unless you add you API key. Currently the spot of add your own key is now included at this stage.
-
 By using this tool, we hope to make information more accessible and learning more inclusive. Enjoy your new audio files!
