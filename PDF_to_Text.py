@@ -32,6 +32,8 @@ for i, chunk in enumerate(chunks):
     engine.runAndWait()
     audio_files.append(audio_file)
 
+    #You may also be left with the chunked pieces of the spoken document saved additionally on your machine unless a function is added here to delete them after combining them
+
 # Step 5: Merge the audio files
 combined = AudioSegment.empty()
 for audio_file in audio_files:
