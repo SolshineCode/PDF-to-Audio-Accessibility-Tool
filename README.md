@@ -1,5 +1,5 @@
 # PDF-to-Audio-Accessibility-Tool
-This tool converts PDF text into audio files, enhancing accessibility especially for neurodivergent and visually impaired individuals.
+This tool converts PDF text into audio files, AKA PDF to Speech, enhancing accessibility especially for neurodivergent and visually impaired individuals.
 LICENSE: Hippocratic License 3.0 with most modules
 [![Hippocratic License HL3-BDS-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SV-TAL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-CL-ECO-EXTR-FFD-LAW-MEDIA-MIL-MY-SV-TAL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/bds-cl-eco-extr-ffd-law-media-mil-my-sv-tal.html)
 
